@@ -43,8 +43,6 @@ Eggs are used as a model for tooth structure since eggshells are primarily compo
 
 It is predicted that the eggs soaked in stannous fluoride and calcium phosphate toothpaste will show smaller changes in conductivity and mass compared to those soaked in activated charcoal toothpaste.
 
-# Lab
-
 ## Part 1: Remineralization 
 
 ### Quantitative Data
