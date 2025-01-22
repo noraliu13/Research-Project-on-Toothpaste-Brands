@@ -88,15 +88,20 @@ Fluoride is a weaker base, so less fluoride dissociates in acidic conditions, ma
 - Under various conditions, it can dissociate and bond with more ions, forming a proper crystalline structure.
 - This structure offers some acid resistance but is less effective than stannous fluoride.
 
-## Part 2: Neutralization
+## Part 2: Neutralization Rates
 
-To test the neutralizing abilities of each toothpaste, we titrated acid into each solution and observed their pH graphs. The equivalence point was determined when the moles of base (B) equaled the moles of acid (A). From the equivalence point, we identified the midpoint, at which pOH equals pKb.
+To test the neutralizing abilities of each toothpaste, we titrated acid into each solution and observed their pH graphs. The equivalence point was determined when the moles of base (B) equaled the moles of acid (A). From the equivalence point, we identified the midpoint, at which pOH equals pKb. 
 
-### Why Neutralization Worked  
+Testing for neutralization rates helps to evaluate the effectiveness of each toothpaste in counteracting acidic conditions. Acids, such as those found in foods, drinks, or produced by bacteria in the mouth, can weaken tooth enamel through demineralization. Toothpaste neutralizes these acids, preventing damage and protecting the enamel. By comparing the neutralization rates, we can mimic real-life conditions, where many people do not brush for the recommended two minutes. Therefore, testing neutralization rates mimics real-life conditions by evaluating how effectively toothpaste works in shorter timeframes.
 
-Stannous Fluoride showed the greatest initial, final, and average rates of neutralization. Calcium Phosphate and charcoal produced similar results, with Calcium Phosphate being slightly more effective overall.  
+*/insert photo of titration graphs/*
 
-#### Explanation:  
+### Results of Neutralization Testing
+- **Stannous Fluoride**: Showed the greatest initial, final, and average rates of neutralization.  
+- **Calcium Phosphate**: Performed slightly less effectively than Stannous Fluoride but was still more effective than Charcoal.  
+- **Charcoal**: Showed neutralization reactions but was the least effective.
+  
+### Why the Neutralization Worked
 
 - **Base Strength and Conjugate Acids:**  
   - The strength of a base is inversely related to the strength of its conjugate acid.  
@@ -107,12 +112,7 @@ Stannous Fluoride showed the greatest initial, final, and average rates of neutr
   - Phosphate dissociates more readily, increasing the base concentration in solution.  
   - Higher base concentrations lead to more frequent collisions and reactions, contributing to a greater magnitude of neutralization over time.  
 
-However, despite phosphate's theoretical strength, fluoride exhibited a greater rate of reaction. This discrepancy is likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the concentration of phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions and an enhanced reaction rate.  
+Despite the theoretical strength of phosphate, fluoride exhibited a greater rate of reaction, likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions, enhancing the reaction rate. Charcoal, although not a base, demonstrated neutralization due to its strong buffering capacity. It contains sodium cocoyl glutamate, which has a pH of 9<sup>-10</sup>, and this buffering ability caused its titration graph to resemble those of standard acid-base reactions.
 
-#### Why Charcoal Worked  
-
-- Charcoal, though not a base, demonstrated neutralization due to its strong buffering capacity.  
-- It contains sodium cocoyl glutamate, which has a pH of 9<sup>-10</sup>.
-- This buffering ability caused its titration graph to resemble those of standard acid-base reactions.  
 
 
