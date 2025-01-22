@@ -114,5 +114,38 @@ Testing for neutralization rates helps to evaluate the effectiveness of each too
 
 Despite the theoretical strength of phosphate, fluoride exhibited a greater rate of reaction, likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions, enhancing the reaction rate. Charcoal, although not a base, demonstrated neutralization due to its strong buffering capacity. It contains sodium cocoyl glutamate, which has a high pH of around 9 - 10, and this buffering ability caused its titration graph to resemble those of standard acid-base reactions.
 
+## Part 3: Thermometric Titration
+
+After studying how toothpaste can effectively neutralize acid, we wanted to investigate how a change in temperature might influence the neutralization process. Toothpaste is typically stored at around 25°C to maintain the integrity of its ingredients. To explore the effects of temperature, we heated the solutions to 60°C.
+
+### Effects of Increased Temperature
+
+Increasing the temperature generally leads to a faster dissociation rate. However, this does not necessarily help in neutralizing acid because the neutralization reaction is exothermic. Results have shown that each toothpaste showed a decrease in K<sub>b</sub> values when heated. A smaller Kb indicates a greater concentration of unreacted base, as the denominator in the equilibrium expression becomes larger.
+
+All the neutralization reactions studied were exothermic, as indicated by previous molar enthalpy calculations. When the temperature is increased, the equilibrium shifts to the reactant side, reversing the reaction and increasing the reverse reaction rate. The forward reaction rate decreases, predicting a slower neutralization reaction at higher temperatures.
+
+By understanding these principles, we could assess the impact of temperature on the efficiency of toothpaste in neutralizing acids, with the expectation that heating the solutions would slow down the neutralization due to the exothermic nature of the reactions.
+
+*/ images of Thermometric titration compared to regular titration /*
+
+## Part 4: Testing Whitening Abilities
+
+To test the whitening abilities of each toothpaste, we first soaked eggs in coffee for 2 days to create a stain. Afterward, the eggs were placed in toothpaste solutions for 24 hours before being removed.
+
+### Observations
+
+**Qualitative Results:** 
+  - Each egg became visibly lighter after the treatment.
+  - The egg treated with stannous fluoride exhibited the whitest appearance.
+  - The calcium phosphate-treated egg followed in appearance, with charcoal showing a lighter result as well.
+  - Both calcium phosphate and charcoal treatments displayed some inconsistencies, with darker patches appearing in certain areas.
+
+### Whitening Mechanism
+
+It is important to note that the toothpastes used in this experiment are not bleaching agents and cannot break down stains through redox reactions. Instead, it is likely that the stained layer on the egg leached out into the toothpaste solution, revealing a lighter appearance underneath.
+
+#### Photos of Qualitative Analysis
+
+[Insert photos here]
 
 
