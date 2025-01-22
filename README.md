@@ -92,3 +92,27 @@ Fluoride is a weaker base, so less fluoride dissociates in acidic conditions, ma
 
 To test the neutralizing abilities of each toothpaste, we titrated acid into each solution and observed their pH graphs. The equivalence point was determined when the moles of base (B) equaled the moles of acid (A). From the equivalence point, we identified the midpoint, at which pOH equals pKb.
 
+### Why Neutralization Worked  
+
+Stannous Fluoride showed the greatest initial, final, and average rates of neutralization. Calcium Phosphate and charcoal produced similar results, with Calcium Phosphate being slightly more effective overall.  
+
+#### Explanation:  
+
+- **Base Strength and Conjugate Acids:**  
+  - The strength of a base is inversely related to the strength of its conjugate acid.  
+  - Strong acids (with higher K<sub>a</sub> values) dissociate more readily, making their conjugate bases weaker as they are less likely to accept protons.  
+  - Phosphate is theoretically a stronger base than fluoride due to its smaller K<sub>a</sub>, resulting in a larger K<sub>b</sub>.  
+
+- **Phosphate's Dissociation and Concentration:**  
+  - Phosphate dissociates more readily, increasing the base concentration in solution.  
+  - Higher base concentrations lead to more frequent collisions and reactions, contributing to a greater magnitude of neutralization over time.  
+
+However, despite phosphate's theoretical strength, fluoride exhibited a greater rate of reaction. This discrepancy is likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the concentration of phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions and an enhanced reaction rate.  
+
+#### Why Charcoal Worked  
+
+- Charcoal, though not a base, demonstrated neutralization due to its strong buffering capacity.  
+- It contains sodium cocoyl glutamate, which has a pH of 9<sup>-10</sup>.
+- This buffering ability caused its titration graph to resemble those of standard acid-base reactions.  
+
+
