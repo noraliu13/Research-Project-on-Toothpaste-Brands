@@ -1,4 +1,5 @@
 # Research Project on Toothpaste Brands
+
 ### Authors
 
 **Nora Liu (Me!)**  
@@ -10,6 +11,11 @@ https://www.linkedin.com/in/noralliu/
 Contact Info:  
 https://github.com/Katiiesun  
 https://www.linkedin.com/in/sun-katie/
+
+### Disclaimer
+
+This README is currently a work in progress and is still being revised. Please check back later for updates and more detailed information.
+
 
 ## Background Information
 Tooth enamel is the hardest substance in the human body, composed mainly of minerals like calcium and phosphate ions. This highly mineralized structure protects the tooth from external degradation, particularly from acids that can break down enamel over time. Acids often come from the food we consume, where various substances, especially sugars, interact with bacteria in the mouth to create acidic environments. The interaction of these acids with enamel leads to the process of demineralization, where essential minerals are leached from the enamel.
@@ -132,9 +138,38 @@ By understanding these principles, we could assess the impact of temperature on 
 
 To test the whitening abilities of each toothpaste, we first soaked eggs in coffee for 2 days to create a stain. Afterward, the eggs were placed in toothpaste solutions for 24 hours before being removed.
 
-### Observations
+### Quantitative Data
 
-**Qualitative Results:** 
+For the qualitative analysis, we measured the pH and conductivity of each toothpaste solution before and after soaking the eggs. The changes in pH and conductivity provide insight into how each toothpaste interacts with the egg surface and its ability to influence the solution's properties. The following table summarizes the data collected during the experiment.
+
+
+| **Type**            | **Initial pH** | **Final pH** | **pH Difference** | **Initial Conductivity (μs/cm)** | **Final Conductivity (μs/cm)** | **Conductivity Difference (μs/cm)** |
+|---------------------|----------------|--------------|-------------------|----------------------------------|--------------------------------|-------------------------------------|
+| **Stannous Fluoride** | 6.30           | 7.53         | +1.23             | 747.3 μs/cm                     | 957.3 μs/cm                    | +210.0 μs/cm                       |
+| **Calcium Phosphate** | 7.20           | 8.02         | +0.82             | 505.7 μs/cm                     | 683.0 μs/cm                    | +177.3 μs/cm                       |
+| **Charcoal**          | 7.01           | 7.81         | +0.80             | 439.3 μs/cm                     | 579.3 μs/cm                    | +140.0 μs/cm                       |
+| **Control (Water)**   | 8.99           | 8.19         | -0.80             | 10.0 μs/cm                      | 253.7 μs/cm                    | +243.7 μs/cm                       
+
+*<sub>Table 3: Initial and final pH of each toothpaste after soaking a stained egg for 24 hours, with its calculated differences. Initial conductivity and final conductivity of each toothpaste after soaking a stained egg for 24 hours, with its calculated differences.</sub>*
+
+#### Observations and Explanation: pH and Conductivity Changes After Soaking Eggs in Toothpaste Solutions
+
+When testing the toothpaste solutions after soaking the coffee-stained eggs, there was an increase in both pH and conductivity for all brands of toothpaste. It is shown that **Stannous Fluoride** had the greatest increase in pH and conductivity compared to the other toothpaste solutions.
+
+**Why the Increase in Conductivity?**  
+
+An increase in conductivity can be due to calcium carbonate leaching into the toothpaste solution. Calcium carbonate has a low solubility in water, however, the acid from the coffee can be collected in the pores of the eggshell. The acid will continue to break down the Calcium Carbonate to form Carbonic acid, which decomposes into carbon dioxide and water. The acid from the coffee wears down the eggshell, and when the egg is removed from the coffee solution, acid remains in the pores of the shell, continuing to break down the calcium carbonate. This reaction forms **carbonic acid**, which decomposes into **carbon dioxide** and **water** in the toothpaste solution.  
+
+**Le Chatelier’s Principle and Henry’s Law:**
+- According to **Henry’s Law**, the amount of gas dissolved in a solution is directly proportional to the pressure of the gas above the solution.
+- **Le Chatelier’s principle** states that equilibrium will shift to minimize changes. In this case, as carbon dioxide escapes from the solution, equilibrium will shift to produce more carbon dioxide to restore balance.
+
+Another way to understand why the conductivity increased is imagining a carbonated beverage. When opening a new can of soda, the fizziness is due to a high concentration of carbon dioxide. Over time, the fizziness decreases as carbon dioxide escapes, establishing equilibrium with the atmosphere. With carbon dioxide leaving the solution, equilibrium shifts to produce more carbon dioxide, and the concentration of **H⁺ ions** (hydrogen ions) decreases, contributing to the observed changes in pH and conductivity.
+
+### Qualitative Data
+
+*/ images */
+
   - Each egg became visibly lighter after the treatment.
   - The egg treated with stannous fluoride exhibited the whitest appearance.
   - The calcium phosphate-treated egg followed in appearance, with charcoal showing a lighter result as well.
