@@ -112,7 +112,7 @@ Testing for neutralization rates helps to evaluate the effectiveness of each too
   - Phosphate dissociates more readily, increasing the base concentration in solution.  
   - Higher base concentrations lead to more frequent collisions and reactions, contributing to a greater magnitude of neutralization over time.  
 
-Despite the theoretical strength of phosphate, fluoride exhibited a greater rate of reaction, likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions, enhancing the reaction rate. Charcoal, although not a base, demonstrated neutralization due to its strong buffering capacity. It contains sodium cocoyl glutamate, which has a pH of 9<sup>-10</sup>, and this buffering ability caused its titration graph to resemble those of standard acid-base reactions.
+Despite the theoretical strength of phosphate, fluoride exhibited a greater rate of reaction, likely due to the higher concentration of fluoride ions in fluoridated toothpaste compared to the phosphate ions in Calcium Phosphate toothpaste. The increased fluoride concentration results in more frequent collisions, enhancing the reaction rate. Charcoal, although not a base, demonstrated neutralization due to its strong buffering capacity. It contains sodium cocoyl glutamate, which has a high pH of around 9 - 10, and this buffering ability caused its titration graph to resemble those of standard acid-base reactions.
 
 
 
