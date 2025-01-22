@@ -12,10 +12,13 @@ Contact Info:
 https://github.com/Katiiesun  
 https://www.linkedin.com/in/sun-katie/
 
-### Disclaimer
+### DISCLAIMER !!!
 
 This README is currently a work in progress and is still being revised. Please check back later for updates and more detailed information.
-
+Upcoming changes needed: 
+- Inclusion of all images
+- Part 5: Effectiveness of toothpaste as a cleaning mechanism
+- Revision of all written data
 
 ## Background Information
 Tooth enamel is the hardest substance in the human body, composed mainly of minerals like calcium and phosphate ions. This highly mineralized structure protects the tooth from external degradation, particularly from acids that can break down enamel over time. Acids often come from the food we consume, where various substances, especially sugars, interact with bacteria in the mouth to create acidic environments. The interaction of these acids with enamel leads to the process of demineralization, where essential minerals are leached from the enamel.
