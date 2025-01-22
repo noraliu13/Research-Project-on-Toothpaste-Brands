@@ -3,8 +3,13 @@
 
 **Nora Liu (Me!)**  
 Contact Info:  
-https://github.com/noraliu13
+https://github.com/noraliu13  
 https://www.linkedin.com/in/noralliu/
+
+**Katie Sun**  
+Contact Info:  
+https://github.com/Katiiesun  
+https://www.linkedin.com/in/sun-katie/
 
 ## Background Information
 Tooth enamel is the hardest substance in the human body, composed mainly of minerals like calcium and phosphate ions. This highly mineralized structure protects the tooth from external degradation, particularly from acids that can break down enamel over time. Acids often come from the food we consume, where various substances, especially sugars, interact with bacteria in the mouth to create acidic environments. The interaction of these acids with enamel leads to the process of demineralization, where essential minerals are leached from the enamel.
