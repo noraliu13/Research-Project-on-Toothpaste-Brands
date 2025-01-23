@@ -14,7 +14,7 @@ https://www.linkedin.com/in/sun-katie/
 
 ### DISCLAIMER !!!
 
-This README is currently a work in progress and is still being revised. Please check back later for updates and more detailed information.
+Though this project was finished and presented in 2023, this README is currently a work in progress and is still being revised. Please check back later for updates and more detailed information.
 Upcoming changes needed: 
 - Inclusion of all images
 - Inclusion of short description + images of toothpaste brands used
