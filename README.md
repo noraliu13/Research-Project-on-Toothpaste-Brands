@@ -62,10 +62,10 @@ Teeth often undergo demineralization, whereas toothpaste helps replenish the ena
 
 | **Toothpaste**          | **Vinegar Initial Conductivity (μs/cm)** | **Vinegar Final Conductivity (μs/cm)** | **Difference Before and After Vinegar (μs/cm)** |
 |-------------------------|-----------------------------------------|--------------------------------------|-------------------------------------------------|
-| **Stannous Fluoride**    | 1437.3 μs/cm                           | 18,540.6 μs/cm                      | -17,473.6 μs/cm                                 |
-| **Calcium Phosphate**    | 20,140.6 μs/cm                         | 19,559.6 μs/cm                      | -581 μs/cm                                      |
-| **Charcoal**             | 20,377.0 μs/cm                         | 19,818 μs/cm                        | -559 μs/cm                                      |
-| **Control (None)**       | 20,947.4 μs/cm                         | 20,937.4 μs/cm                      | -10 μs/cm                                       |
+| **Stannous Fluoride**    | 1437.3 μs/cm                           | 18,540.6 μs/cm                       | 17,473.6 μs/cm                                  |
+| **Calcium Phosphate**    | 1437.3 μs/cm                           | 20,140.6 μs/cm                       | 19,559.6 μs/cm                                  |
+| **Charcoal**             | 1437.3 μs/cm                           | 20,377.0 μs/cm                       | 19,818.0 μs/cm                                  |
+| **Control (None)**       | 1437.3 μs/cm                           | 20947.4 μs/cm                        | 20,937.4 μs/cm                                  |
 
 *<sub>Table 2: Conductivity of each vinegar solution before and after soaking the eggs in toothpaste. Stannous Fluoride showed the smallest difference, with the control egg showing the most significant change.</sub>*
 
